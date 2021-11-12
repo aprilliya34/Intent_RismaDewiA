@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Intent_RismaDewiA" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/rismadewi20520010" vcs="Git" />
   </component>
 </project>

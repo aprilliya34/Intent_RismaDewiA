@@ -13,5 +13,11 @@
     <string name="data_received">DATA DITERIMA</string>
     <string name="this_ismove_activity">INI PINDAH AKTIVITI</string>
     <string name="back_to_main_page">KEMBALI KE HALAMAN UTAMA</string>
+    <string name="choose_a_hobby">PILIHAN HOBI YANG KAMU SUKA</string>
+    <string name="_cycling">BERSEPEDAH</string>
+    <string name="_read">MEMBACA</string>
+    <string name="_learn">BELAJAR</string>
+    <string name="_exercising">BEROLAHRAGA</string>
+
 
 </resources>
